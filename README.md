@@ -114,4 +114,4 @@ Execute the program
 </html>
 ```
 # OUTPUT
-![Timetable](timetable.png)
+![Timetable](timetableshehan.png)
